@@ -1,0 +1,2 @@
+# Word2Vec
+基于Python和gensim框架实现Word2vec在Wikipedia语料集上面的应用，并且获取词的词向量以及寻找相近词
